@@ -1,3 +1,5 @@
+#!/usr/bin/env bash
+
 function getresponse {
 	echo "How many files are in the current directory?"
 	read response
